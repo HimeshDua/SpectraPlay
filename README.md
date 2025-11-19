@@ -1,6 +1,6 @@
 # SpectraPlay
 
-![SpectraPlay Logo](images/logo.png)
+![SpectraPlay Logo](assets/images/logoo.png)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/HimeshDua/SpectraPlay)](https://github.com/HimeshDua/SpectraPlay/stargazers)
@@ -124,3 +124,4 @@ SpectraPlay is licensed under the **Apache License 2.0**. See the [LICENSE](LICE
 ---
 
 If you like the project, please ⭐ the repo to help it grow.
+
