@@ -106,7 +106,7 @@ This is optimized for **GitHub Pages** deployment:
 1. Commit your changes.
 2. Push to the `main` (or specified) branch.
 3. In your GitHub repo settings → Pages → Set the branch + folder (root) → Save.
-4. Your site will be live under `https://HimeshDua.github.io/SpectraPlay`.
+4. Your site will be live under `[https://himeshdua.github.io/SpectraPlay](https://himeshdua.github.io/SpectraPlay)`.
 
 Alternatively, you can host the static files on any static-file host (Netlify, Vercel, S3, etc.) — just upload the HTML, CSS, JS, and assets folder.
 
@@ -133,3 +133,4 @@ SpectraPlay is open-source under the **Apache License 2.0**. See the [LICENSE](L
 ---
 
 If you like this project, please ⭐ the repo — helps enormously.
+
